@@ -14,6 +14,16 @@ A Hangman game implemented in Python.
   - A special rule if you win!
 - **Code:** [(hangman_game/)](https://github.com/MyGollyGosh/Python-Portfolio/blob/146befc83ba4edcc3e1d4a12324cd9c1bf506b00/Hang%20man)
 
+### Mad Libs
+
+A fun game of Mad Libs implimented in Python.
+- **Features:**
+  - User-friendly input prompts
+  - Dynamic story generation
+  - Laughter-inducing results
+- **Code:** [(hangman_game/)](https://github.com/MyGollyGosh/Python-Portfolio/blob/16f5244aa0f3f846e3221f97001a0734f71fcbbc/Mad%20libs.py)
+- 
+
 ## About Me
 
 I am a passionate Junior developer with a love for complex problem solving! My intrests include both hiking and ramen which I believe is a prerequisite to being in Data Science.
