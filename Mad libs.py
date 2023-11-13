@@ -1,3 +1,5 @@
+#turns out not a lot of Brits know mad libs! Plug it in to your code editors, hit run and have a laugh.
+
 def the_adventure():
   adjective = input("Please pick an adjective: ")
   name = input("Please pick a name: ")
