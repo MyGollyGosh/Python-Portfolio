@@ -1,4 +1,4 @@
-#Lachlan's Python Portfolio
+# Lachlan's Python Portfolio
 
 Welcome to my Python portfolio! This repository showcases various Python projects that I've worked on. Feel free to explore the projects and check out the source code.
 
