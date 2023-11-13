@@ -22,7 +22,6 @@ A fun game of Mad Libs implimented in Python.
   - Dynamic story generation
   - Laughter-inducing results
 - **Code:** [(hangman_game/)](https://github.com/MyGollyGosh/Python-Portfolio/blob/16f5244aa0f3f846e3221f97001a0734f71fcbbc/Mad%20libs.py)
-- 
 
 ## About Me
 
