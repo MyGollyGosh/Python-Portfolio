@@ -12,7 +12,7 @@ A Hangman game implemented in Python.
   - Win and lose conditions
   - Special rules for double guesses
   - A special rule if you win!
-- **Code:** [[Hangman Game](hangman_game/)](https://github.com/MyGollyGosh/Python-Portfolio/blob/146befc83ba4edcc3e1d4a12324cd9c1bf506b00/Hang%20man)
+- **Code:** [(hangman_game/)](https://github.com/MyGollyGosh/Python-Portfolio/blob/146befc83ba4edcc3e1d4a12324cd9c1bf506b00/Hang%20man)
 
 ## About Me
 
