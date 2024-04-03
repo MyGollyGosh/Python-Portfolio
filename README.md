@@ -4,6 +4,17 @@ Welcome to my Python portfolio! This repository showcases various Python project
 
 ## Projects
 
+### Automated Email Extractor
+
+A script designed to be run at regular intervals to parse emails and extract data into an excel document
+  - datetime, imaplib, os, re + workbook library usage
+  - Automated data extraction to excel for easy management
+  - Designed to check entire previous month
+  - Multipart handling to only pull relevant information (text)
+  - Can be easily altered to change information pulled
+  - Error handling for setting up on new device
+- **Code:** [(Automated_Email_Extractor/)](https://github.com/MyGollyGosh/Python-Portfolio/blob/main/Automated%20Email%20Extractor.py)
+
 ### Hangman Game
 
 A Hangman game implemented in Python.
@@ -17,11 +28,10 @@ A Hangman game implemented in Python.
 ### Mad Libs
 
 A fun game of Mad Libs implimented in Python.
-- **Features:**
   - User-friendly input prompts
   - Dynamic story generation
   - Laughter-inducing results
-- **Code:** [(hangman_game/)](https://github.com/MyGollyGosh/Python-Portfolio/blob/16f5244aa0f3f846e3221f97001a0734f71fcbbc/Mad%20libs.py)
+- **Code:** [(Mad_libs/)](https://github.com/MyGollyGosh/Python-Portfolio/blob/16f5244aa0f3f846e3221f97001a0734f71fcbbc/Mad%20libs.py)
 
 ## About Me
 
