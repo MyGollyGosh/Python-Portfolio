@@ -6,7 +6,7 @@ Welcome to my Python portfolio! This repository showcases various Python project
 ### Financial Data Analysis
 
 This project pulls financial data using the Yahoo Finance API, saves it to CSV, converts it to a SQLite database, and executes SQL queries to analyze the data.
-  - Utilises libraries such as yfinance, pandas and sqlite
+  - Utilises libraries such as yfinance, pandas, os and sqlite
   - Saves data to CSV for easy storage, retrival and querying
   - Converts data to SQLite database for efficient querying
   - Executes SQL queries to show full functionality
