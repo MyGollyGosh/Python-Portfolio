@@ -4,10 +4,10 @@ This project is a Python script designed to pull financial data from Yahoo Finan
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
-- [License](#license)
+- Installation
+- Usage
+- Dependencies
+- License
 
 ## Installation
 
@@ -44,4 +44,4 @@ You can install these dependencies using `pip install -r requirements.txt`.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/license/mit) file for details.
