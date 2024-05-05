@@ -10,7 +10,7 @@ This project pulls financial data using the Yahoo Finance API, saves it to CSV, 
   - Saves data to CSV for easy storage, retrival and querying
   - Converts data to SQLite database for efficient querying
   - Executes SQL queries to show full functionality
-- **Code:** [Financial Data Analysis](https://github.com/MyGollyGosh/Python-Portfolio/blob/main/Financial%20data.py)
+- **Code:** [Financial Data Analysis](https://github.com/MyGollyGosh/Python-Portfolio/tree/main/Financial%20tracker)
 
 ### Automated Email Extractor
 
