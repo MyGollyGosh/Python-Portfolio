@@ -17,7 +17,7 @@ To use this script, follow these steps:
    
 2. **Install Dependencies**: Ensure you have Python installed on your machine. Install the required dependencies using `pip install -r requirements.txt`.
 
-3. **Run the Script**: Execute the `main.py` script using `python main.py`. This will pull financial data, save it to CSV and SQLite formats, and execute predefined SQL queries.
+3. **Run the Script**: Execute the `main.py` script using `python Financial data.py`. This will pull financial data, save it to CSV and SQLite formats, and execute predefined SQL queries.
 
 ## Usage
 
@@ -30,7 +30,7 @@ You can customize the script by modifying the following parameters in the `main.
 
 ### Running Queries
 
-The `main()` function in `main.py` file contains predefined SQL queries. You can modify these queries or add your own to analyze the data according to your requirements.
+The `main()` function in `Financial data.py` file contains predefined SQL queries. You can modify these queries or add your own to analyze the data according to your requirements.
 
 ## Dependencies
 
