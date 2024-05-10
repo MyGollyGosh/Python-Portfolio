@@ -13,11 +13,13 @@ This project is a Python script designed to pull financial data from Yahoo Finan
 
 To use this script, follow these steps:
 
-1. **Clone the Repository**: Clone this repository to your local machine using `https://github.com/MyGollyGosh/Python-Portfolio/tree/main/Financial%20tracker`.
-   
-2. **Install Dependencies**: Ensure you have Python installed on your machine. Install the required dependencies using `pip install -r requirements.txt`.
+1. **Clone the Repository**: Clone this repository to your local machine using `https://github.com/MyGollyGosh/Python-Portfolio`.
 
-3. **Run the Script**: Execute the `main.py` script using `python Financial data.py`. This will pull financial data, save it to CSV and SQLite formats, and execute predefined SQL queries.
+2. **Change directory**: Navigate to the 'Financial tracker' folder.
+   
+3. **Install Dependencies**: Ensure you have Python installed on your machine. Install the required dependencies using `pip install -r requirements.txt`.
+
+4. **Run the Script**: Execute the script using `python "Financial data.py"`. This will pull financial data, save it to CSV and SQLite formats, and execute predefined SQL queries.
 
 ## Usage
 
