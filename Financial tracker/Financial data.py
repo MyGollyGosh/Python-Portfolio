@@ -58,10 +58,20 @@ def main():
         "GROUP BY Ticker")
     execute_query(query2)
 
+def get_valid_directory():
+    while True:
+        output_directory = input("Enter the directory path to save the files: ").strip()
+        try:
+            os.makedirs(output_directory)
+            return output_directory
+        except OSError as e:
+            print(f"Error creating directory: {e}")
+        except Exception as e:
+            print(f"An unexpected error occurred: {e}")
+        print("Please provide a valid directory path.")
+
 if __name__ == "__main__":
-    output_directory = input("Enter the directory path to save the files: ").strip()
-    if not os.path.exists(output_directory):
-        os.makedirs(output_directory)
+    output_directory = get_valid_directory()
     save_to_csv(output_directory)
     input_csv_path = os.path.join(output_directory, 'historical_data.csv')
     convert_to_sql(input_csv_path)
